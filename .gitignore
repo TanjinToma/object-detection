@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Colab / Google Drive metadata
+*.tmp
+*.swp
+*.DS_Store
+
+# Model weights / checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Logs and outputs
+*.log
+*.out
+*.csv
+
+
+
+
+
+
