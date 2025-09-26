@@ -59,10 +59,9 @@ OUTPUT_DIR   = "/content/drive/MyDrive/Datasets/DOTA_coco"
 
 ## Run the Notebooks
 
-- YOLO Pipeline
-Open and run notebooks/object_detection_YOLO.ipynb
+- YOLO Pipeline:
+run the notebook `object_detection_YOLO.ipynb`
 
-- Faster R-CNN Pipeline
-Open and run notebooks/object_detection_Faster-RCNN.ipynb
-
+- Faster R-CNN Pipeline:
+run the notebook `object_detection_Faster-RCNN.ipynb`
 
